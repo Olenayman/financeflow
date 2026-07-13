@@ -4,9 +4,9 @@ FinanceFlow is a responsive Flutter web application for tracking personal income
 
 ## Deployed App
 
-Deployed URL: `TBD`
+Deployed URL: https://Olenayman.github.io/financeflow/
 
-Replace `TBD` with the final web deployment link before submitting the project.
+This is the GitHub Pages URL for the repository `https://github.com/Olenayman/financeflow.git`.
 
 ## How To Use
 
@@ -33,7 +33,8 @@ Replace `TBD` with the final web deployment link before submitting the project.
 - The project uses [lib/main.dart](lib/main.dart) as the Flutter app entry point.
 - A mirror entrypoint for the handout zip layout is provided in [src/main.dart](src/main.dart).
 - The submission zip should include this README at the root and avoid binary files.
-- The deployment URL must be filled in before final submission.
+- The project source is stored in the standard Flutter layout and is already pushed to the GitHub repository above.
+- The deployment URL should be verified after GitHub Pages finishes publishing the latest push.
 
 ## Packages Used
 
